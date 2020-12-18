@@ -1,2 +1,2 @@
 # wasm-project
- Hello World wasm-project using c programming
+ Hello World wasm-project using C programming
